@@ -4,7 +4,7 @@ class Logger:
 
     LEVELS = {"INFO": "ℹ", "WARNING": "⚠", "ERROR": "✖", "SUCCESS": "✔"}
 
-    def __init__(self, name="Pipeline", log_dir="../logs"):
+    def __init__(self, name="Pipeline", log_dir="logs"):
         self.name    = name
         self.log_dir = log_dir
         self._logs   = []                     # in-memory log history

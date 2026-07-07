@@ -1,8 +1,0 @@
-[2026-07-07 11:44:13] ℹ INFO     | Student_Data_Pipeline | 7 rows were extracted
-[2026-07-07 11:44:13] ⚠ WARNING  | Student_Data_Pipeline |   [fix] missing score2 for 'Dara' → filled with mean 71.0
-[2026-07-07 11:44:13] ⚠ WARNING  | Student_Data_Pipeline | dropping {'name': '', 'age': '25', 'score1': '80', 'score2': '85', 'score3': '90', 'type': 'regular', 'projects': ''}
-[2026-07-07 11:44:13] ⚠ WARNING  | Student_Data_Pipeline |   [fix] invalid score Bopha
-[2026-07-07 11:44:13] ⚠ WARNING  | Student_Data_Pipeline |   [fix] missing score3 for 'Kanha' → filled with mean 89.0
-[2026-07-07 11:44:13] ⚠ WARNING  | Student_Data_Pipeline |   [fix] unknown type 'unknown' for 'Chan' → set to 'regular'
-[2026-07-07 11:44:13] ℹ INFO     | Student_Data_Pipeline | [Loader] Wrote 6 rows to '../data/output/students_clean.csv'
-[2026-07-07 11:44:13] ℹ INFO     | Student_Data_Pipeline | [Loader] Wrote 6 rows to '../data/output/students_clean.json'

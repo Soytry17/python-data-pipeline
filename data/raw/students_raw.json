@@ -1,0 +1,6 @@
+[
+  {"name": "Soytry", "age": "22", "score1": "88", "score2": "95", "score3": "91", "type": "ds", "projects": "RippleEco,Olist"},
+  {"name": "Dara",   "age": "21", "score1": "70", "score2": "",   "score3": "72", "type": "regular", "projects": ""},
+  {"name": "",       "age": "25", "score1": "80", "score2": "85", "score3": "90", "type": "regular", "projects": ""},
+  {"name": "Bopha",  "age": "20", "score1": "110","score2": "75", "score3": "80", "type": "regular", "projects": ""}
+]

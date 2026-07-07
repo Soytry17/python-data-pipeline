@@ -1,0 +1,6 @@
+[2026-07-07 14:23:23] ℹ INFO     | Student_Data_Pipeline | [Extractor] Extracted 4 rows from 'data/raw/students_raw.json'
+[2026-07-07 14:23:23] ⚠ WARNING  | Student_Data_Pipeline |   [fix] missing score2 for 'Dara' → filled with mean 71.0
+[2026-07-07 14:23:23] ⚠ WARNING  | Student_Data_Pipeline | dropping {'name': '', 'age': '25', 'score1': '80', 'score2': '85', 'score3': '90', 'type': 'regular', 'projects': ''}
+[2026-07-07 14:23:23] ⚠ WARNING  | Student_Data_Pipeline |   [fix] invalid score Bopha
+[2026-07-07 14:23:23] ℹ INFO     | Student_Data_Pipeline | [Loader] Wrote 3 rows to 'data/output/students_clean.csv'
+[2026-07-07 14:23:23] ℹ INFO     | Student_Data_Pipeline | [Loader] Wrote 3 rows to 'data/output/students_clean.json'
